@@ -1,10 +1,4 @@
 # hubber
-        
-▄██████████████▄.▐█▄▄▄▄█▌
-████████████████▌▀▀██▀▀
-████▄████████████▄▄█▌
-▄▄▄▄▄██████████████▀
-
 A simple script to find Docker Images inside a public docker registry.
 
 ## Install
